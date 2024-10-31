@@ -1,6 +1,6 @@
 <div align="center">
   
-### *A simple task manager written in C# and .NET.*
+### *A simple command-line task manager written in C# and .NET.*
 
 </div>
 
